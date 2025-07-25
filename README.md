@@ -2,7 +2,7 @@
 
 A Flutter widget that smoothly animates changing words or phrases — ideal for search bars, onboarding pages, hero sections, and more.
 
-![Demo GIF](https://raw.githubusercontent.com/omaruxpro/animated_keyword_text/main/assets/demo.gif)
+![Demo GIF](https://raw.githubusercontent.com/Omars-dev/animated_keyword_text/main/assets/demo.gif)
 
 ---
 
